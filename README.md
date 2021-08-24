@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sutirthachowdhury
+- 👋 Hi, I’m @Sutirthachowdhury, theoretical and computational chemist. 
 - 👀 I’m interested in Quantum dynamics | Quantum Computing and Quantum information of Science.
-- 🌱 I’m currently learning python | c++ and using novel theoretical tools to solve Quantum Chemistry Problems.
+- 🌱 I’m currently learning python | c++ | QISKIT 
+- 🌱 I'm currelty working various Quantum Chemistry Problems such quantum ratcheting, CISS effetcs, IR-perturbed eelctron transfer      etc.
 - 📫 How to reach me: sutirtha.chowdhury@duke.edu
 
 <!---
