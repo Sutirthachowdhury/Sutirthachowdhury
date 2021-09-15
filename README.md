@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sutirthachowdhury, theoretical and computational chemist. 
 - 👀 I’m interested in Quantum dynamics | Quantum Computing and Quantum information of Science.
 - 🌱 I’m currently learning python | c++ | QISKIT 
-- 🌱 I'm currelty working various Quantum Chemistry Problems such quantum ratcheting, CISS effetcs, IR-perturbed electron              transfer, spin polarization effects in EPR etc.
+- 🌱 I'm currelty working various Quantum Chemistry Problems such quantum ratcheting, CISS effects, IR-perturbed electron  transfer, spin polarization effects in EPR etc.
 - 📫 How to reach me: sutirtha.chowdhury@duke.edu
 
 <!---
