@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum dynamics | Molecular designing | Quantum Computing and Quantum information of Science.
 - 🌱 I’m currently learning  c++ | QISKIT 
 - 🌱 I'm currelty working various Quantum Chemistry Problems such as Electron and proton transfer mechanisms in complex reactions, CISS effects, IR-perturbed electron transfer, cavity-QED etc.
-- Proficient in coding (python, Fortran) | mathematical modelling | Quantum dynamics method development | Quantum chemistry softwares.
+- Proficient in coding (python, Fortran) | mathematical modelling | Quantum dynamics method development | data analysis |  Quantum chemistry softwares.
 - 📫 How to reach me: sutirtha.chowdhury@duke.edu
 
 <!---
